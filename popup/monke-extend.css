@@ -1,0 +1,28 @@
+body {
+    width: 200px;
+    height: 200px;
+}
+
+h1 {
+    color: #000;
+}
+
+p {
+    color: #555;
+}
+
+img {
+    inline-size: fit-content;
+    align-self: center;
+    padding-bottom: 1rem;
+}
+
+.monkey-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.monkey-body {
+    display: flex;
+    flex-direction: column;
+}
